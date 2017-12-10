@@ -1,5 +1,5 @@
 # 1mätsch
-*A dating pApp for [1bätsch](https://github.com/1baetsch/1baetsch). Find your perfect Congress match! 💖.*
+*A dating pApp for [1bätsch](https://github.com/1baetsch/1baetsch). Find your perfect Congress match!* 💖
 
 1. Go to [1maetsch.github.io](https://1maetsch.github.io). 🌐
 2. Answer the questions and receive a personalized emoji card. ✍️
