@@ -1,11 +1,11 @@
 # 1mätsch
-*A dating pApp for [1bätsch](https://github.com/1baetsch/1baetsch). Find your perfect Congress match!* 💖
+*A dating pApp for [1bätsch](https://github.com/1baetsch/1baetsch). Find your perfect Congress match!* :sparkling_heart:
 
-1. Go to [1maetsch.github.io](https://1maetsch.github.io). 🌐
-2. Answer the questions and receive a personalized emoji card. ✍️
-3. Print your card. 🖨
-4. Install the card on your bätsch. ✂️
-5. Meet other people, compare cards and count matching emoji. 💯
+1. Go to [1maetsch.github.io](https://1maetsch.github.io). :globe_with_meridians:
+2. Answer the questions and receive a personalized emoji card. :pencil:
+3. Print your card. :printer:
+4. Install the card on your bätsch. :scissors:
+5. Meet other people, compare cards and count matching emoji. :100:
 
 ## Terms of service
-  - Be excellent to each other. 😇
+  - Be excellent to each other. :innocent:
