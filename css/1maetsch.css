@@ -1,0 +1,21 @@
+﻿ .wizard > .steps .error a, .wizard > .steps .error a:hover, .wizard > .steps .error a:active {
+   background: #ff9180;
+ }
+
+ .steps a {
+   text-align: center;
+   line-height: 0.8;
+ }
+
+ .wizard > .steps > ul > li {
+   float: left;
+   width: 16.6%;
+ }
+
+ .wizard > .content > .body {
+   height: 30%;
+ }
+
+ .wizard > .content {
+   min-height: 16em;
+ }
